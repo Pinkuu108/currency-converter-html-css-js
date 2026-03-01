@@ -7,9 +7,7 @@ The application fetches live exchange rate data from a public API and dynamicall
 
 ## 📸 Application Preview
 
-<p align="center">
-  <img src="images/frontpage.png" alt="Currency Converter Front Page" width="500"/>
-</p>
+![Currency Converter Front Page](frontpage.png)>
 
 ---
 
